@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC ",
       "price": 5.89
     },
     {
@@ -19,6 +19,11 @@
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "Unidade ",
+      "price": "1,50",
+      "id": 5
     }
   ]
 }
